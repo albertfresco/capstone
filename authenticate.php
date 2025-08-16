@@ -17,7 +17,7 @@
         else{  
             echo "<script> 
                     alert('Login Failed');
-                    window.location.href='index.html'
+                    window.location.href='home.html'
                 </script>";
         }     
 
