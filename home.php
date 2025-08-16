@@ -23,8 +23,8 @@
 </head>
 
 <body onload="onload()">
-    <?php include "connection.php"; ?> <!--connection -->
-    <?php error_reporting(0); ?> <!-- for no report on undifined array or variable -->
+*/ <?php include "connection.php"; ?> <!--connection -->
+<?php error_reporting(0); ?> <!-- for no report on undifined array or variable --> */
     <nav>
         <ul>
             <li>
